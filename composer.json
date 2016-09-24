@@ -1,0 +1,19 @@
+{
+    "name": "nikitasmall/router",
+    "description": "small router",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav Parkhomenko",
+            "email": "stanislav.parkhomenko@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Router": "src/"
+        }
+    }
+}
